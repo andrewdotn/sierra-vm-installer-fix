@@ -9,7 +9,8 @@ sudo xattr -rc /Applications/VMware\ Fusion.app/Contents/Library/Create\ Maveric
 ```
 You should be able to drag and drop the .app onto Fusion to begin the installation.
 
-If you're still having problems a reboot sometimes helps.
+If you're still having problems, open Disk Utility and eject any macOS
+installer disk images. Failing that, a reboot sometimes helps.
 
 
 There's more info on usage at our blog post [here](http://blogs.vmware.com/teamfusion/2016/06/fix-for-installing-macos-sierra-as-a-vm.html)
